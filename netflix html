@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NETFLIX</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div>
+    <a1>NETFLIX</a1>
+    <a href="#Home">Home</a>
+    <a href="#">TV Shows</a>
+    <a href="#">Movies</a>
+    <a href="#">Original</a>
+    <a href="#">Recently Added</a>
+    <a href="#">Portfolio</a>
+    <button>search</button>
+    <p>Home</p>
+     <p>TV SHOWS</p>
+     <P>Movies</P>
+     <img src="maharaja net.jpg" alt="image "  height="100" width="200"> 
+     <img src="day shit netflix.jpg" alt="" height="100" width="200">
+     <img src="movies1.jpg" alt="" height="100" width="200">
+     <img src="movies 2.jpg" alt="" height="100" width="300">
+     <img src="movies 3.jpg" alt="" height="100" width="300">
+     <img src="movies 4.jpg" alt=""  height="100"  width="300">
+     <P>Original</P>
+     <img src="o1.jpg" alt=""  height="200"  width="300">
+     <img src="o2.jpg" alt=""  height="200"  width="300">
+     <img src="o3.jpg" alt=""  height="200"  width="300">
+     <img src="o4.jpg" alt=""  height="200"  width="300">
+     <img src="o5.jpg" alt=""  height="200"  width="300">
+     <img src="o6.jpg" alt=""  height="200"  width="300">
+
+     <P>Recently ADDED</P>
+     <P>WEBSERIES</P>
+     <img src="w5.jpg" alt=""  height="300"  width="300">
+     <img src="w6.jpg" alt=""  height="100"  width="300">
+     <img src="w1.jpg" alt=""  height="200"  width="300">
+     <img src="w4.jpg" alt=""  height="300"  width="300">
+     <img src="w2.jpg" alt=""  height="300"  width="300">
+     <img src="w3.jpg" alt=""  height="300"  width="300">
+     </div>
+     
+  
+</body>
+</html>
